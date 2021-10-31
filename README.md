@@ -4,7 +4,7 @@
   </div>
 
   <ul>
-    <li> 👀 I’m interested in Web and Game Development </li>
+    <li> 👀 I’m interested in Web Development </li>
     <li> 🌱 I’m currently learning C & NodeJS</li>
     <li> 💞️ I’m looking to collaborate on any kind of interesting projects </li>
   </ul>

@@ -21,11 +21,11 @@
 
   <div> 
     <h3><b>Contacts:</b></h3>
-    <a href="mailto:flobbun@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a target="_blank" href="mailto:flobbun@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/jhon-aguiar-jardim-8751361b1/?locale=en_US" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a target="_blank" href="https://www.linkedin.com/in/jhon-aguiar-jardim-8751361b1/?locale=en_US" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>   
   </div>
   

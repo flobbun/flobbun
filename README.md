@@ -3,12 +3,6 @@
     <h1>Hi, I'm flobbun ✌</h1>
   </div>
 
-  <ul>
-    <li> 👀 I’m interested in Web Development </li>
-    <li> 🌱 I’m currently learning C & NodeJS</li>
-    <li> 💞️ I’m looking to collaborate on any kind of interesting projects </li>
-  </ul>
-
   <div style="display: inline_block"><br>
     <img align="center" alt="flobbun-javascript" height="60" width="60" src="https://raw.githubusercontent.com/LucasBrodersen/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg">
     <img align="center" alt="flobbun-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-plain.svg">

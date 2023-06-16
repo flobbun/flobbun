@@ -61,11 +61,11 @@
 
   &nbsp;
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flobbun&layout=compact&langs_count=8)](https://github.com/flobbun)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flobbun&layout=compact&langs_count=8&theme=dark)](https://github.com/flobbun)
 
   &nbsp;
 
-  [![flobbun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=flobbun&theme=blue-green)](https://github.com/flobbun)
+  [![flobbun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=flobbun&theme=dark)](https://github.com/flobbun)
 
   &nbsp;
   

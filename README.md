@@ -1,7 +1,7 @@
 
 ![Logo](https://media.licdn.com/dms/image/D4D16AQG9tf0nZ_T3_g/profile-displaybackgroundimage-shrink_350_1400/0/1669231641681?e=1692230400&v=beta&t=oappwAGAuvlc8aqkm9t1qY7Cy4fbHoykqtil9JSjxLg)
 
-**Hi**, **I'm Jhon 🙋‍♂️** I'm a **Software Developer**, as you can already tell by just looking around I love the Javascript Ecosystem and I'm pretty much coding every single day. If you have something interesting on your hands and want me to collaborate contact me💬
+**Hi**, **I'm Jhon 🙋‍♂️** I'm a **Software Developer**, as you can already tell by just looking around I love the Javascript Ecosystem and I'm pretty much coding every single day. If you have something interesting on your hands and want me to collaborate <a href="https://www.linkedin.com/in/jhon-jardim-dev/">contact me</a>💬
 
 ## 🛠 Skills
 <div align="center">
@@ -20,10 +20,10 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jhonaguiar.fly.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-jardim-dev/)
 
-## Stats
+## 📊 Stats
 
 <div align="center">
 

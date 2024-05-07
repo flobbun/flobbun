@@ -9,7 +9,7 @@
 	
   &nbsp;
 	
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Lover+💛;Let's+colaborate+😉;Fullstack+Web+Developer+💻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Lover+💛;Let's+colaborate+😉;Fullstack+Web+Developer+💻)]()
  
   &nbsp;
  

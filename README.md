@@ -1,7 +1,4 @@
-
-![Logo](https://media.licdn.com/dms/image/D4D16AQG9tf0nZ_T3_g/profile-displaybackgroundimage-shrink_350_1400/0/1669231641681?e=1692230400&v=beta&t=oappwAGAuvlc8aqkm9t1qY7Cy4fbHoykqtil9JSjxLg)
-
-**Hi**, **I'm Jhon 🙋‍♂️** I'm a **Software Developer**, as you can already tell by just looking around I love the Javascript Ecosystem and I'm pretty much coding every single day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. If you have something interesting on your hands and want me to collaborate <a href="https://www.linkedin.com/in/jhon-jardim-dev/">contact me</a>💬
+# **🙋‍♂️ Hi**, I'm Jhon, a **Software Developer** highly specialized in the javascript ecosystem.
 
 &nbsp;
 
